@@ -93,15 +93,6 @@ Me especializo en construir soluciones escalables para entornos backend y mobile
 
 ---
 
-### Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=padredemellis&theme=219lug" alt="Estadísticas de GitHub" height="165"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=padredemellis&theme=219lug&hide_border=true" alt="Racha de GitHub" height="165"/>
-</p>
-
----
-
 <p align="center">
   <b><i>"Programar con lógica, liderar con empatía, construir con arquitectura."</i></b>
 </p>
