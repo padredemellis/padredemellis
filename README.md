@@ -53,9 +53,6 @@ Me especializo en construir soluciones escalables para entornos backend y mobile
     <td align="center" valign="middle" width="33%">
       <img src="https://img.icons8.com/ios-filled/100/ffffff/home.png" width="80" alt="HBNB Clone"/>
     </td>
-    <td align="center" valign="middle" width="33%">
-      <img src="https://img.icons8.com/ios-filled/100/ffffff/terminal.png" width="80" alt="Simple Shell"/>
-    </td>
   </tr>
   <tr>
     <td align="center" valign="middle">
@@ -63,9 +60,6 @@ Me especializo en construir soluciones escalables para entornos backend y mobile
     </td>
     <td align="center" valign="middle">
       <b><a href="#">AirBnB Clone</a></b>
-    </td>
-    <td align="center" valign="middle">
-      <b><a href="#">Simple Shell (C)</a></b>
     </td>
   </tr>
   <tr>
