@@ -71,10 +71,6 @@ Me especializo en construir soluciones escalables para entornos backend y mobile
       <b>Full-Stack Developer</b><br/>
       Aplicación web integral utilizando <b>Python (Flask)</b> y <b>MySQL</b>. Construcción de una API REST y motores de almacenamiento personalizados.
     </td>
-    <td valign="top">
-      <b>Programador de Sistemas</b><br/>
-      Desarrollo desde cero de un intérprete de comandos compatible con <code>sh</code> en <b>C</b>, enfocado en gestión de procesos y eficiencia de memoria.
-    </td>
   </tr>
 </table>
 
