@@ -29,7 +29,7 @@
 ---
 
 ### Sobre Mí
-[cite_start]Soy un Ingeniero de Software con una base rigurosa tanto en desarrollo de bajo nivel como de alto nivel[cite: 4]. [cite_start]Mi formación técnica en **Holberton School** se complementa con una trayectoria previa en educación y ciencias sociales, lo que me permite fusionar la precisión técnica con el **liderazgo de equipos, comunicación asertiva y resolución dinámica de problemas**[cite: 5].
+Soy un Ingeniero de Software con una base rigurosa tanto en desarrollo de bajo nivel como de alto nivel. Mi formación técnica en **Holberton School** se complementa con una trayectoria previa en educación y ciencias sociales, lo que me permite fusionar la precisión técnica con el **liderazgo de equipos, comunicación asertiva y resolución dinámica de problemas**.
 
 Me especializo en construir soluciones escalables para entornos backend y mobile, con un enfoque particular en código limpio y documentación robusta. Ya sea gestionando memoria en **C** o diseñando estados complejos en **Flutter**, mi objetivo es la excelencia y la integridad arquitectónica.
 
