@@ -25,16 +25,16 @@
 ---
 
 ### Puntos Destacados
-- [cite_start]**Fundamentos de Ingeniería de Software** en Holberton School[cite: 1, 36].
-- [cite_start]**Especialista en Arquitectura:** Experto en migrar de MVC a **Clean Architecture**[cite: 8, 9].
-- [cite_start]**Perfil Híbrido:** Capacidad de combinar la lógica técnica profunda con habilidades pedagógicas profesionales[cite: 5].
+- **Fundamentos de Ingeniería de Software** en Holberton School.
+- **Especialista en Arquitectura:** Experto en migrar de MVC a **Clean Architecture**.
+- **Perfil Híbrido:** Capacidad de combinar la lógica técnica profunda con habilidades pedagógicas profesionales.
 
 ---
 
 ### Sobre Mí
 [cite_start]Soy un Ingeniero de Software con una base rigurosa tanto en desarrollo de bajo nivel como de alto nivel[cite: 4]. [cite_start]Mi formación técnica en **Holberton School** se complementa con una trayectoria previa en educación y ciencias sociales, lo que me permite fusionar la precisión técnica con el **liderazgo de equipos, comunicación asertiva y resolución dinámica de problemas**[cite: 5].
 
-[cite_start]Me especializo en construir soluciones escalables para entornos backend y mobile, con un enfoque particular en código limpio y documentación robusta[cite: 6, 14]. [cite_start]Ya sea gestionando memoria en **C** o diseñando estados complejos en **Flutter**, mi objetivo es la excelencia y la integridad arquitectónica[cite: 8, 20].
+Me especializo en construir soluciones escalables para entornos backend y mobile, con un enfoque particular en código limpio y documentación robusta. Ya sea gestionando memoria en **C** o diseñando estados complejos en **Flutter**, mi objetivo es la excelencia y la integridad arquitectónica.
 
 ---
 
@@ -74,15 +74,15 @@
   <tr>
     <td valign="top">
       <b>Lead Mobile Developer</b><br/>
-      MVP desarrollado con Flutter/Dart. Migré de MVC a <b>Clean Architecture</b>. [cite_start]Integré Firebase Auth y Firestore con documentación técnica completa[cite: 8, 12, 13, 14].
+      MVP desarrollado con Flutter/Dart. Migré de MVC a <b>Clean Architecture</b>. Integré Firebase Auth y Firestore con documentación técnica completa.
     </td>
     <td valign="top">
       <b>Full-Stack Developer</b><br/>
-      Aplicación web integral utilizando <b>Python (Flask)</b> y <b>MySQL</b>. [cite_start]Construcción de una API REST y motores de almacenamiento personalizados[cite: 15, 16, 17].
+      Aplicación web integral utilizando <b>Python (Flask)</b> y <b>MySQL</b>. Construcción de una API REST y motores de almacenamiento personalizados.
     </td>
     <td valign="top">
       <b>Programador de Sistemas</b><br/>
-      [cite_start]Desarrollo desde cero de un intérprete de comandos compatible con <code>sh</code> en <b>C</b>, enfocado en gestión de procesos y eficiencia de memoria[cite: 18, 19, 20].
+      Desarrollo desde cero de un intérprete de comandos compatible con <code>sh</code> en <b>C</b>, enfocado en gestión de procesos y eficiencia de memoria.
     </td>
   </tr>
 </table>
@@ -90,9 +90,9 @@
 ---
 
 ### Educación y Experiencia Profesional
-* [cite_start]**Ingeniería de Software** — Holberton School (2025-2026)[cite: 36].
-* [cite_start]**Profesorado de Informática** — INET (2023-Presente)[cite: 36].
-* [cite_start]**Docente de Informática** — Educación Secundaria (Liderazgo de grupos y diseño de currículum técnico)[cite: 28, 31].
+* **Ingeniería de Software** — Holberton School (2025-2026).
+* **Profesorado de Informática** — INET (2023-Presente).
+* **Docente de Informática** — Educación Secundaria.
 
 ---
 
