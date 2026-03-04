@@ -2,9 +2,6 @@
 
 ## Ingeniero de Software | C, Python, Flutter & React <p align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=padredemellis&theme=219lug" alt="Detalles del Perfil"/>
-</p>
 
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=808080&center=true&vCenter=true&width=820&lines=Ingeniero+de+Software;Desarrollador+Full-Stack;Especialista+en+Flutter+y+Mobile;Programaci%C3%B3n+de+Bajo+Nivel+(C);Educador+Tecnol%C3%B3gico" alt="Typing SVG"/>
