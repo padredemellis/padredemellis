@@ -58,7 +58,7 @@ Me especializo en construir soluciones escalables para entornos backend y mobile
   </tr>
 </table>
 
-👉 Mirá más en mi portfolio: **[padredemellis.github.io/Portfolio](https://padredemellis.github.io/Portfolio/)**
+Mirá más en mi portfolio: **[padredemellis.github.io/Portfolio](https://padredemellis.github.io/Portfolio/)**
 
 ---
 
