@@ -1,37 +1,36 @@
-<!-- Perfil de Emanuel Romero — las imágenes están en /assets -->
+<!-- Perfil de Emanuel Romero · estilo retro pixel · imágenes en /assets -->
 
 <p align="center">
   <a href="https://padredemellis.github.io/Portfolio/">
-    <img src="assets/header.svg" width="100%" alt="Emanuel Romero — Desarrollador · Back-End & Mobile. Programo para solucionar problemas y enseño para potenciar personas."/>
+    <img src="assets/header.svg" width="100%" alt="Emanuel Romero — Jugador 1. Clase: Desarrollador. Rama: Back-End & Mobile. Programo para solucionar problemas y enseño para potenciar personas."/>
   </a>
 </p>
 
 <p align="center">
-  <img src="assets/about.svg" width="100%" alt="Sobre mí: desarrollador de software con enfoque en back-end y desarrollo móvil. Formación en Holberton School, experiencia docente y en impacto social. Español nativo, inglés B1. Canelones, Uruguay."/>
+  <img src="assets/stats.svg" width="100%" alt="Stats: desarrollador de software con enfoque en back-end y desarrollo móvil. Formación en Holberton School, experiencia docente y en impacto social. Español nativo, inglés B1."/>
 </p>
 
 <p align="center">
-  <img src="assets/stack.svg" width="100%" alt="Stack: Python, Flask, Dart, Flutter, JavaScript, React.js, Firebase, MySQL, Docker, Git, Linux, Bash, C, SQL, API REST, Microservicios, Clean Architecture, Scrum."/>
+  <img src="assets/inventory.svg" width="100%" alt="Inventario: Python, Flask, Dart, Flutter, JavaScript, React.js, Firebase, MySQL, Docker, Git, Linux, Bash, C, SQL, API REST, Microservicios, Clean Architecture, Scrum."/>
 </p>
 
 <p align="center">
   <a href="https://github.com/padredemellis/trivia-mvp">
-    <img src="assets/project-beast-quiz.svg" width="100%" alt="Proyecto Beast Quiz: MVP de trivia móvil con Flutter, Dart, Firebase y Clean Architecture."/>
+    <img src="assets/quest-beast-quiz.svg" width="100%" alt="Misión completada: Beast Quiz, app móvil de trivia con Flutter, Dart, Firebase y Clean Architecture."/>
   </a>
 </p>
 
 <p align="center">
-  <img src="assets/experience.svg" width="100%" alt="Experiencia: Docente de Informática (2023–hoy), Educador Social en ONG Otras Manos (2019–2025). Formación: Holberton School, Profesorado de Informática en INET."/>
+  <img src="assets/levels.svg" width="100%" alt="Niveles: Docente de Informática (2023–hoy), Educador Social en ONG Otras Manos (2019–2025). Entrenamiento: Holberton School y Profesorado de Informática en INET."/>
 </p>
 
 <p align="center">
-  <img src="assets/contact.svg" width="100%" alt="Contacto — Hablemos."/>
+  <img src="assets/continue.svg" width="100%" alt="Continue? — Contacto"/>
 </p>
 
 <p align="center">
-  <a href="https://padredemellis.github.io/Portfolio/"><img src="assets/btn-portfolio.svg" height="48" alt="Ver portfolio"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/luis-emanuel-romero-duarte"><img src="assets/btn-linkedin.svg" height="48" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="mailto:emanuel.romero@docente.ceibal.edu.uy"><img src="assets/btn-email.svg" height="48" alt="Email"/></a>
+  <a href="https://padredemellis.github.io/Portfolio/"><img src="assets/btn-portfolio.svg" height="56" alt="Portfolio"/></a>
+  <a href="mailto:emanuel.romero@docente.ceibal.edu.uy"><img src="assets/btn-email.svg" height="56" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/luis-emanuel-romero-duarte"><img src="assets/btn-linkedin.svg" height="56" alt="LinkedIn"/></a>
+  <a href="https://github.com/padredemellis?tab=repositories"><img src="assets/btn-github.svg" height="56" alt="Repositorios"/></a>
 </p>
