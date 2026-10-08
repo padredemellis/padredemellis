@@ -4,11 +4,14 @@
 
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=808080&center=true&vCenter=true&width=820&lines=Ingeniero+de+Software;Desarrollador+Full-Stack;Especialista+en+Flutter+y+Mobile;Programaci%C3%B3n+de+Bajo+Nivel+(C);Educador+Tecnol%C3%B3gico" alt="Typing SVG"/>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=808080&center=true&vCenter=true&width=820&lines=Desarrollador+de+Software;Desarrollador+Full-Stack;Especialista+en+Flutter+y+Mobile;Programaci%C3%B3n+de+Bajo+Nivel+(C);Educador+Tecnol%C3%B3gico" alt="Typing SVG"/>
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/luis-emanuel-romero-duarte" target="_blank">
+  <a href="https://padredemellis.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-c8f06b?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/luis-emanuel-romero-duarte" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:emanuel.romero@docente.ceibal.edu.uy">
@@ -29,7 +32,7 @@
 ---
 
 ### Sobre Mí
-Soy un Ingeniero de Software con una base rigurosa tanto en desarrollo de bajo nivel como de alto nivel. Mi formación técnica en **Holberton School** se complementa con una trayectoria previa en educación y ciencias sociales, lo que me permite fusionar la precisión técnica con el **liderazgo de equipos, comunicación asertiva y resolución dinámica de problemas**.
+Soy un Desarrollador de Software con una base rigurosa tanto en desarrollo de bajo nivel como de alto nivel. Mi formación técnica en **Holberton School** se complementa con una trayectoria previa en educación y ciencias sociales, lo que me permite fusionar la precisión técnica con el **liderazgo de equipos, comunicación asertiva y resolución dinámica de problemas**.
 
 Me especializo en construir soluciones escalables para entornos backend y mobile, con un enfoque particular en código limpio y documentación robusta. Ya sea gestionando memoria en **C** o diseñando estados complejos en **Flutter**, mi objetivo es la excelencia y la integridad arquitectónica.
 
@@ -47,37 +50,23 @@ Me especializo en construir soluciones escalables para entornos backend y mobile
 
 <table>
   <tr>
-    <td align="center" valign="middle" width="33%">
-      <img src="https://img.icons8.com/ios-filled/100/ffffff/quiz.png" width="80" alt="Beast Quiz"/>
+    <td align="center" valign="middle" width="35%">
+      <img src="https://raw.githubusercontent.com/padredemellis/Portfolio/main/img/beast-quiz.jpg" width="200" alt="Beast Quiz"/>
     </td>
-    <td align="center" valign="middle" width="33%">
-      <img src="https://img.icons8.com/ios-filled/100/ffffff/home.png" width="80" alt="HBNB Clone"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <b><a href="https://github.com/padredemellis/trivia-mvp.git">Beast Quiz</a></b>
-    </td>
-    <td align="center" valign="middle">
-      <b><a href="#">AirBnB Clone</a></b>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
+    <td valign="middle">
+      <h3><a href="https://github.com/padredemellis/trivia-mvp">Beast Quiz</a></h3>
       <b>Lead Mobile Developer</b><br/>
       MVP desarrollado con Flutter/Dart. Migré de MVC a <b>Clean Architecture</b>. Integré Firebase Auth y Firestore con documentación técnica completa.
-    </td>
-    <td valign="top">
-      <b>Full-Stack Developer</b><br/>
-      Aplicación web integral utilizando <b>Python (Flask)</b> y <b>MySQL</b>. Construcción de una API REST y motores de almacenamiento personalizados.
     </td>
   </tr>
 </table>
 
+👉 Mirá más en mi portfolio: **[padredemellis.github.io/Portfolio](https://padredemellis.github.io/Portfolio/)**
+
 ---
 
 ### Educación y Experiencia Profesional
-* **Ingeniería de Software** — Holberton School (2025-2026).
+* **Fundamentos de Ingeniería de Software** — Holberton School (2025-2026).
 * **Profesorado de Informática** — INET (2023-Presente).
 * **Docente de Informática** — Educación Secundaria.
 
