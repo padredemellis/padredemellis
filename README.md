@@ -17,9 +17,6 @@
   <a href="mailto:emanuel.romero@docente.ceibal.edu.uy">
     <img src="https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/padredemellis" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=padredemellis&color=black&style=for-the-badge" alt="Visitas al perfil"/>
-  </a>
 </p>
 
 ---
