@@ -1,6 +1,6 @@
 # Hola, soy Emanuel Romero
 
-## Ingeniero de Software | C, Python, Flutter & React <p align="center">
+## Desarrollador de Software | C, Python, Flutter & React <p align="center">
 
 
 <p align="center">
